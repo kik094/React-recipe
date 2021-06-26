@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-recipe/static/css/main.ffd48e40.chunk.css",
+    "main.css": "/React-recipe/static/css/main.b1b342ee.chunk.css",
     "main.js": "/React-recipe/static/js/main.6a8579af.chunk.js",
     "main.js.map": "/React-recipe/static/js/main.6a8579af.chunk.js.map",
     "runtime-main.js": "/React-recipe/static/js/runtime-main.94e69563.js",
@@ -8,13 +8,13 @@
     "static/js/2.7bb586c7.chunk.js": "/React-recipe/static/js/2.7bb586c7.chunk.js",
     "static/js/2.7bb586c7.chunk.js.map": "/React-recipe/static/js/2.7bb586c7.chunk.js.map",
     "index.html": "/React-recipe/index.html",
-    "static/css/main.ffd48e40.chunk.css.map": "/React-recipe/static/css/main.ffd48e40.chunk.css.map",
+    "static/css/main.b1b342ee.chunk.css.map": "/React-recipe/static/css/main.b1b342ee.chunk.css.map",
     "static/js/2.7bb586c7.chunk.js.LICENSE.txt": "/React-recipe/static/js/2.7bb586c7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.94e69563.js",
     "static/js/2.7bb586c7.chunk.js",
-    "static/css/main.ffd48e40.chunk.css",
+    "static/css/main.b1b342ee.chunk.css",
     "static/js/main.6a8579af.chunk.js"
   ]
 }
